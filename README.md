@@ -12,7 +12,7 @@ and rearranges the pages so that you could simply print out the pages and fold t
 
 The program assumes you are printing DOUBLE SIDED with 2 PAGES per PAGE / 4 PAGES PER SHEET.
 
-For the end user, all you have to do is give the path to a file, specify the page count THEN a bundle size (20 page bundlesize works fine in my experience), then take the resulting pdf and print it out as double sided with 4 pages per sheet. (IN CHROME THE OPTION IS CONFUSING, so select double-sided and 2 pages per sheet. Since it's double sided it will actually be 4 pages per sheet. I think Chrome confuses page/sheet ¯\_(ツ)_/¯)
+For the end user, all you have to do is give the path to a file, specify the page count THEN a bundle size (20 page bundlesize works fine in my experience), then take the resulting pdf and print it out as double sided with 4 pages per sheet. (IN CHROME THE OPTION IS CONFUSING, so select double-sided and 2 pages per sheet. Since it's double sided it will actually be 4 pages per sheet. I think Chrome confuses page/sheet ¯\\_(ツ)_/¯)
 
 Then, take each 20-page bundle (should be 5 sheets), fold them into a booklet, and staple it together. Do this with each of the bundles.
 
